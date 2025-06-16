@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#imprimir todos los clientes en pantalla, prueba
+#imprimir todos los clientes en pantalla, 
 #imprimir solo los clientes del mercado 1
 #no imprimir los clientes de la direccion 2
 #imprimir el total de clientes
