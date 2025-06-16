@@ -1,0 +1,13 @@
+Marca,Tipo,Modelo,Version,Precio,Version,Precio,Motor,Potencia HP,Cilindros,Encendido ,,Camara,Rines V1,Rines V2,Transmision
+Mazda,Auto,Mazda3,i SPORT,$442,900,I GRAND TOURING,$482,900,2.5,186,4,Boton,Gasolina,SI,Aluminio 18,Aluminio 18,KYACTIV
+Nissan,Auto,Sentra,Sense CVT,$446,900,Advance CVT,$486,900,2.0,145,4,Boton,Gasolina,SI,Aluminio 18,Aluminio 18,CVT
+Toyota,Auto,Corolla,LE,$451,100,SE,$534,700,1.8,168,4,Boton,Gasolina,SI,Acero 16,Aluminio 17,CVT
+Mazda,SUV,CX-30,i SPORT,$471,900,I GRAND TOURING,$517,900,2.5,186,4,Boton,Gasolina,SI,Aluminio 18,Aluminio 18,KYACTIV
+Toyota,Auto,Prius,Base,$501,400,Premium,$575,500,1.8,138,4,Boton,Hibrido,SI,Aluminio 17,Aluminio 17,Engrane Planetario
+Toyota,Auto,Corolla,LE HV,$504,700,-,$0,1.8,138,4,Boton,Hibrido,SI,Aluminio 15,-,Engrane Planetario
+Nissan,SUV,X-TRAIL,Advance 2,$525,100,Exclusive 2,$590,000,2.5,,4,Boton,Gasolina,SI,?,?,CVT
+Mazda,SUV,CX-5,i SPORT,$551,900,-,$0,2.5,186,4,Boton,Gasolina,SI,Aluminio 17,-,KYACTIV
+Honda,Auto,Civic,i-Style,$590,900,-,$0,,150,4,Boton,Gasolina,SI,?,-,CVT
+Toyota,SUV,Rav4,XLE,$625,200,Adventure,$682,800,2.5,204,4,Boton,Gasolina,SI,Aluminio 18,Aluminio 19,Automatica
+Toyota,Auto,Camry,XSE HEV,$692,900,-,$0,2.5,225,4,Boton,Hibrido,SI,Aluminio 18,-,Engrane Planetario
+Honda,Auto,Civic,Sport HEV,$694,900,-,$0,,200,4,Boton,Hibrido,SI,?,-,CVT
