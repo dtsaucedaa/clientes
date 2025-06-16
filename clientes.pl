@@ -5,7 +5,8 @@
 #no imprimir los clientes de la direccion 2
 #imprimir el total de clientes
 
-$ruta = "/Users/marcotorres/Documents/Documents - Marco’s MacBook Pro/perl";
+$ruta = `pwd`;
+chomp($ruta);
 $nombre = 'clientes.txt';
 $filename = $ruta.'/'.$nombre;
 open($archivo,'<',$filename);
