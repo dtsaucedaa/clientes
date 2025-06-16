@@ -1,0 +1,7 @@
+1,- clase nueva llamada vendedores ( vendedores.pm )
+2- crear el archivo vendedores txt
+
+
+3- crer la base vendedores las funciones new y agente
+4- modificar el archivo de ventas para argregar la columna de numero del vendedor en la segunda columna
+54- reporte debe de mostrar vendedore y cuanto vendio cada uno de ellos de las ventas totales

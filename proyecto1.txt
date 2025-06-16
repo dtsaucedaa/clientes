@@ -1,0 +1,9 @@
+1.- crear archivo de texto llamado ventas.txt 
+2.- agregar 20 registros en el archivo los siguientes campos:
+numero de cliente,fecha,facturado
+2768191,2025-03-01,2500
+3.- el archivo reporte_clientes.pl mostrar el reporte de ventas debajo de la lista de clientes por mercado
+        numero de cliente:2768203
+        nombre de clienyte:cliente13
+        ventas totales:$2500.00
+        mercado:mercado4

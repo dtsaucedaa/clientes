@@ -1,0 +1,15 @@
+2768191,cliente1,direccion1,mercado1,2025-06-01
+2768192,cliente2,direccion1,mercado1,2025-06-01
+2768193,cliente3,direccion2,mercado1,2025-06-01
+2768194,cliente4,direccion3,mercado2,2025-06-01
+2768195,cliente5,direccion3,mercado1,2025-06-01
+2768196,cliente6,direccion3,mercado2,2025-06-01
+2768197,cliente7,direccion4,mercado2,2025-06-01
+2768198,cliente8,direccion5,mercado2,2025-06-01
+2768199,cliente9,direccion5,mercado1,2025-06-01
+2768200,cliente10,direccion6,mercado3,2025-06-01
+2768201,cliente11,direccion7,mercado3,2025-06-01
+2768202,cliente12,direccion8,mercado3,2025-06-01
+2768203,cliente13,direccion8,mercado4,2025-06-01
+2768204,cliente14,direccion9,mercado4,2025-06-01
+2768205,cliente15,direccion10,mercado4,2025-06-01

@@ -1,0 +1,8 @@
+Carlos1,Martinez1,Juarez1,17,12,H
+Carlos2,Martinez2,Juarez2,18,10,H
+Carlos3,Martinez3,Juarez3,19,2,H
+Carlos4,Martinez4,Juarez4,17,8,M
+Carlos5,Martinez5,Juarez5,19,8,M
+Carlos6,Martinez6,Juarez6,18,14,H
+Carlos7,Martinez7,Juarez7,19,10,H
+Carlos8,Martinez8,Juarez8,17,3,H
